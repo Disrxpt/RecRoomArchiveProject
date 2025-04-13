@@ -20,7 +20,7 @@
             "patchRecNet": false,
             "patchDownloadSettings":
             {
-                "requireDownload": false
+                "requireDownload": false,
                 "patchLink": null
             },
             "autoPatchType": 0
