@@ -28,5 +28,305 @@
         "Tooltip": "Very first RecRoom version!",
         "supportScreen": false,
         "il2cpp": false
-    }
+    },
+    {
+        "buildId": "06292016-01",
+        "Manifest": "7926661550074548930",
+        "buildName": "June 29th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "06302016-01",
+        "Manifest": "5937396277352677720",
+        "buildName": "June 30th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "07062016-01",
+        "Manifest": "5234716332756009057",
+        "buildName": "July 6th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "07082016-01",
+        "Manifest": "675319925160172554",
+        "buildName": "July 8th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "07132016-01",
+        "Manifest": "394418314086580303",
+        "buildName": "July 13th, 2016 (1)",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "07132016-02",
+        "Manifest": "2793222674831519927",
+        "buildName": "July 13th, 2016 (2)",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "07202016-01",
+        "Manifest": "3518826461438877478",
+        "buildName": "July 20th, 2016 (1)",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "07202016-02",
+        "Manifest": "1105116417500379163",
+        "buildName": "July 20th, 2016 (2)",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "07222016-01",
+        "Manifest": "4041085561776802553",
+        "buildName": "July 22th, 2016 (1)",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "07222016-02",
+        "Manifest": "2224171743476188630",
+        "buildName": "July 22th, 2016 (2)",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
 ]
