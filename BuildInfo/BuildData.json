@@ -899,4 +899,34 @@
         "supportScreen": false,
         "il2cpp": false
     },
+    {
+        "buildId": "FirstRecNet",
+        "Manifest": "5317305413924462757",
+        "buildName": "October 18th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": false,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": null
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
 ]
