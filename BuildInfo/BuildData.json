@@ -947,7 +947,7 @@
         },
         "recnetPatchSettings":
         {
-            "patchRecNet": false,
+            "patchRecNet": true,
             "patchDownloadSettings":
             {
                 "requireDownload": false,
