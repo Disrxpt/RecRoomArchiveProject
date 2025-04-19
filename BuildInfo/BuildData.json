@@ -950,8 +950,8 @@
             "patchRecNet": true,
             "patchDownloadSettings":
             {
-                "requireDownload": false,
-                "patchLink": null
+                "requireDownload": true,
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/FirstRecNet.zip"
             },
             "autoPatchType": 0
         },
