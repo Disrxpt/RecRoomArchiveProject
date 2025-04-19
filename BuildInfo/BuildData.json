@@ -925,12 +925,12 @@
             },
             "autoPatchType": 0
         },
-        "Tooltip": "",
+        "Tooltip": "Last build without RecNet",
         "supportScreen": false,
         "il2cpp": false
     },
     {
-        "buildId": "What",
+        "buildId": "FirstRecNet",
         "Manifest": "1604792277333790762",
         "buildName": "October 26th, 2016",
         "privacySettings":
@@ -955,7 +955,7 @@
             },
             "autoPatchType": 0
         },
-        "Tooltip": "",
+        "Tooltip": "First RecNet build",
         "supportScreen": false,
         "il2cpp": false
     },
