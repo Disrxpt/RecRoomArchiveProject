@@ -989,4 +989,214 @@
         "supportScreen": false,
         "il2cpp": false
     },
+    {
+        "buildId": "11042016",
+        "Manifest": "976486110269581733",
+        "buildName": "November 4th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": true,
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11042016.dll"
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11082016",
+        "Manifest": "3009411680931499705",
+        "buildName": "November 8th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": true,
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11082016.dll"
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11092016",
+        "Manifest": "860756852849299734",
+        "buildName": "November 9th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": true,
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11092016.dll"
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11162016",
+        "Manifest": "424546141649632564",
+        "buildName": "November 16th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": true,
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11162016.dll"
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11232016",
+        "Manifest": "2999110564380282122",
+        "buildName": "November 23rd, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": true,
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11232016.dll"
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11242016",
+        "Manifest": "8464629802564135940",
+        "buildName": "November 24th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": true,
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11242016.dll"
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11292016",
+        "Manifest": "1964111244192991547",
+        "buildName": "November 29th, 2016",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": true,
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11292016.dll"
+            },
+            "autoPatchType": 0
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
 ]
