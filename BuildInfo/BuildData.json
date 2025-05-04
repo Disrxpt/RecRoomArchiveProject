@@ -980,8 +980,8 @@
             "patchRecNet": true,
             "patchDownloadSettings":
             {
-                "requireDownload": false,
-                "patchLink": ""
+                "requireDownload": true,
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/10292016.zip"
             },
             "autoPatchType": 0
         },
