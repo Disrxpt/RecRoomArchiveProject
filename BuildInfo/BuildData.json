@@ -951,7 +951,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/FirstRecNet.zip"
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/FirstRecNet.dll"
             },
             "autoPatchType": 0
         },
@@ -981,7 +981,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/10292016.zip"
+                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/10292016.dll"
             },
             "autoPatchType": 0
         },
