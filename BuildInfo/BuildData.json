@@ -1223,7 +1223,7 @@
                 "requireDownload": false,
                 "patchLink": ""
             },
-            "autoPatchType": 0
+            "autoPatchType": 1
         },
         "Tooltip": "",
         "supportScreen": false,
@@ -1253,7 +1253,7 @@
                 "requireDownload": false,
                 "patchLink": ""
             },
-            "autoPatchType": 0
+            "autoPatchType": 1
         },
         "Tooltip": "",
         "supportScreen": false,
@@ -1283,7 +1283,7 @@
                 "requireDownload": false,
                 "patchLink": ""
             },
-            "autoPatchType": 0
+            "autoPatchType": 1
         },
         "Tooltip": "RAW DATA Weekend build",
         "supportScreen": false,
@@ -1313,7 +1313,7 @@
                 "requireDownload": false,
                 "patchLink": ""
             },
-            "autoPatchType": 0
+            "autoPatchType": 1
         },
         "Tooltip": "",
         "supportScreen": false,
