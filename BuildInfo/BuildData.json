@@ -1220,8 +1220,8 @@
             "patchRecNet": true,
             "patchDownloadSettings":
             {
-                "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/120920161.dll"
+                "requireDownload": false,
+                "patchLink": ""
             },
             "autoPatchType": 0
         },
@@ -1250,8 +1250,8 @@
             "patchRecNet": true,
             "patchDownloadSettings":
             {
-                "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/120920162.dll"
+                "requireDownload": false,
+                "patchLink": ""
             },
             "autoPatchType": 0
         },
@@ -1280,8 +1280,8 @@
             "patchRecNet": true,
             "patchDownloadSettings":
             {
-                "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/12162016.dll"
+                "requireDownload": false,
+                "patchLink": ""
             },
             "autoPatchType": 0
         },
@@ -1310,8 +1310,8 @@
             "patchRecNet": true,
             "patchDownloadSettings":
             {
-                "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/12232016.dll"
+                "requireDownload": false,
+                "patchLink": ""
             },
             "autoPatchType": 0
         },
