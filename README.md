@@ -11,4 +11,5 @@ There will be a nice user-friendly GUI in the program to make it quick and easy 
 ## Can I play on quest?
 Unfortunately, this is exclusive to PC, all builds will only be avalible to pc :(
 
-##Currently Supported Builds: June 2016-Feb 2017 (MORE COMING SOON)
+## Currently Supported Builds
+June 2016-Feb 2017 (MORE COMING SOON)
