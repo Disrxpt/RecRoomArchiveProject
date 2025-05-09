@@ -445,7 +445,7 @@
             },
             "autoPatchType": 0
         },
-        "Tooltip": "IS BUILD DOES NOT RUN FOR AN UNKNOWN REASON",
+        "Tooltip": "THIS BUILD DOES NOT RUN FOR AN UNKNOWN REASON",
         "supportScreen": false,
         "il2cpp": false
     },
@@ -475,7 +475,7 @@
             },
             "autoPatchType": 0
         },
-        "Tooltip": "IS BUILD DOES NOT RUN FOR AN UNKNOWN REASON",
+        "Tooltip": "THIS BUILD DOES NOT RUN FOR AN UNKNOWN REASON",
         "supportScreen": false,
         "il2cpp": false
     },
@@ -925,7 +925,7 @@
             },
             "autoPatchType": 0
         },
-        "Tooltip": "Last build wiout RecNet",
+        "Tooltip": "Last build without RecNet",
         "supportScreen": false,
         "il2cpp": false
     },
