@@ -1739,4 +1739,34 @@
         "supportScreen": false,
         "il2cpp": false
     },
+    {
+        "buildId": "02242017",
+        "Manifest": "1736465827698404753",
+        "buildName": "February 24, 2017",
+        "privacySettings":
+        {
+            "baseAccessLevel": 0,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": ""
+            },
+            "autoPatchType": 1
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
 ]
