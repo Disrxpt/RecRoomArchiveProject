@@ -2,7 +2,7 @@
     {
         "buildId": "06282016-01",
         "Manifest": "4180590405597713716",
-        "buildName": "June 28th, 2016",
+        "buildName": "June 28, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -32,7 +32,7 @@
     {
         "buildId": "06292016-01",
         "Manifest": "7926661550074548930",
-        "buildName": "June 29th, 2016",
+        "buildName": "June 29, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -62,7 +62,7 @@
     {
         "buildId": "06302016-01",
         "Manifest": "5937396277352677720",
-        "buildName": "June 30th, 2016",
+        "buildName": "June 30, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -92,7 +92,7 @@
     {
         "buildId": "07062016-01",
         "Manifest": "5234716332756009057",
-        "buildName": "July 6th, 2016",
+        "buildName": "July 6, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -122,7 +122,7 @@
     {
         "buildId": "07082016-01",
         "Manifest": "675319925160172554",
-        "buildName": "July 8th, 2016",
+        "buildName": "July 8, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -152,7 +152,7 @@
     {
         "buildId": "07132016-01",
         "Manifest": "394418314086580303",
-        "buildName": "July 13th, 2016 (1)",
+        "buildName": "July 13, 2016 (1)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -182,7 +182,7 @@
     {
         "buildId": "07132016-02",
         "Manifest": "2793222674831519927",
-        "buildName": "July 13th, 2016 (2)",
+        "buildName": "July 13, 2016 (2)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -212,7 +212,7 @@
     {
         "buildId": "07202016-01",
         "Manifest": "3518826461438877478",
-        "buildName": "July 20th, 2016 (1)",
+        "buildName": "July 20, 2016 (1)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -242,7 +242,7 @@
     {
         "buildId": "07202016-02",
         "Manifest": "1105116417500379163",
-        "buildName": "July 20th, 2016 (2)",
+        "buildName": "July 20, 2016 (2)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -272,7 +272,7 @@
     {
         "buildId": "07222016-01",
         "Manifest": "4041085561776802553",
-        "buildName": "July 22th, 2016 (1)",
+        "buildName": "July 22, 2016 (1)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -302,7 +302,7 @@
     {
         "buildId": "07222016-02",
         "Manifest": "2224171743476188630",
-        "buildName": "July 22th, 2016 (2)",
+        "buildName": "July 22, 2016 (2)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -332,7 +332,7 @@
     {
         "buildId": "07272016-02",
         "Manifest": "797475839536905254",
-        "buildName": "July 27th, 2016",
+        "buildName": "July 27, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -362,7 +362,7 @@
     {
         "buildId": "07292016-02",
         "Manifest": "3601417244482181468",
-        "buildName": "July 29th, 2016",
+        "buildName": "July 29, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -422,7 +422,7 @@
     {
         "buildId": "08112016-02",
         "Manifest": "2459083052223685832",
-        "buildName": "August 11th, 2016 (1)",
+        "buildName": "August 11, 2016 (1)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -445,14 +445,14 @@
             },
             "autoPatchType": 0
         },
-        "Tooltip": "THIS BUILD DOES NOT RUN FOR AN UNKNOWN REASON",
+        "Tooltip": "IS BUILD DOES NOT RUN FOR AN UNKNOWN REASON",
         "supportScreen": false,
         "il2cpp": false
     },
     {
         "buildId": "08112016-02",
         "Manifest": "5704849664609135853",
-        "buildName": "August 11th, 2016 (2)",
+        "buildName": "August 11, 2016 (2)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -475,14 +475,14 @@
             },
             "autoPatchType": 0
         },
-        "Tooltip": "THIS BUILD DOES NOT RUN FOR AN UNKNOWN REASON",
+        "Tooltip": "IS BUILD DOES NOT RUN FOR AN UNKNOWN REASON",
         "supportScreen": false,
         "il2cpp": false
     },
     {
         "buildId": "08112016-02",
         "Manifest": "20170328095030222",
-        "buildName": "August 11th, 2016 (3)",
+        "buildName": "August 11, 2016 (3)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -512,7 +512,7 @@
     {
         "buildId": "08112016-02",
         "Manifest": "6017726618797772377",
-        "buildName": "August 17th, 2016 (1)",
+        "buildName": "August 17, 2016 (1)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -542,7 +542,7 @@
     {
         "buildId": "08112016-02",
         "Manifest": "8414822626868729817",
-        "buildName": "August 17th, 2016 (2)",
+        "buildName": "August 17, 2016 (2)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -572,7 +572,7 @@
     {
         "buildId": "what",
         "Manifest": "7115392148801672603",
-        "buildName": "August 17th, 2016 (3)",
+        "buildName": "August 17, 2016 (3)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -602,7 +602,7 @@
     {
         "buildId": "what",
         "Manifest": "5360232407282512201",
-        "buildName": "August 24th, 2016",
+        "buildName": "August 24, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -692,7 +692,7 @@
     {
         "buildId": "what",
         "Manifest": "394935228226334493",
-        "buildName": "September 8th, 2016",
+        "buildName": "September 8, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -722,7 +722,7 @@
     {
         "buildId": "what",
         "Manifest": "6639491001730954404",
-        "buildName": "September 15th, 2016",
+        "buildName": "September 15, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -812,7 +812,7 @@
     {
         "buildId": "what",
         "Manifest": "4329015347430869236",
-        "buildName": "September 28th, 2016",
+        "buildName": "September 28, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -842,7 +842,7 @@
     {
         "buildId": "what",
         "Manifest": "1591673639619502502",
-        "buildName": "October 6th, 2016",
+        "buildName": "October 6, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -872,7 +872,7 @@
     {
         "buildId": "what",
         "Manifest": "2501384732285060244",
-        "buildName": "October 7th, 2016",
+        "buildName": "October 7, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -902,7 +902,7 @@
     {
         "buildId": "What",
         "Manifest": "5317305413924462757",
-        "buildName": "October 18th, 2016",
+        "buildName": "October 18, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -925,14 +925,14 @@
             },
             "autoPatchType": 0
         },
-        "Tooltip": "Last build without RecNet",
+        "Tooltip": "Last build wiout RecNet",
         "supportScreen": false,
         "il2cpp": false
     },
     {
         "buildId": "FirstRecNet",
         "Manifest": "1604792277333790762",
-        "buildName": "October 26th, 2016",
+        "buildName": "October 26, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -951,7 +951,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/FirstRecNet.dll"
+                "patchLink": "https://giub.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/FirstRecNet.dll"
             },
             "autoPatchType": 0
         },
@@ -962,7 +962,7 @@
     {
         "buildId": "10292016",
         "Manifest": "5383238034238139872",
-        "buildName": "October 29th, 2016",
+        "buildName": "October 29, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -981,7 +981,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/10292016.dll"
+                "patchLink": "https://giub.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/10292016.dll"
             },
             "autoPatchType": 0
         },
@@ -992,7 +992,7 @@
     {
         "buildId": "11042016",
         "Manifest": "976486110269581733",
-        "buildName": "November 4th, 2016",
+        "buildName": "November 4, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1011,7 +1011,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11042016.dll"
+                "patchLink": "https://giub.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11042016.dll"
             },
             "autoPatchType": 0
         },
@@ -1022,7 +1022,7 @@
     {
         "buildId": "11082016",
         "Manifest": "3009411680931499705",
-        "buildName": "November 8th, 2016",
+        "buildName": "November 8, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1041,7 +1041,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11082016.dll"
+                "patchLink": "https://giub.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11082016.dll"
             },
             "autoPatchType": 0
         },
@@ -1052,7 +1052,7 @@
     {
         "buildId": "11092016",
         "Manifest": "860756852849299734",
-        "buildName": "November 9th, 2016",
+        "buildName": "November 9, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1071,7 +1071,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11092016.dll"
+                "patchLink": "https://giub.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11092016.dll"
             },
             "autoPatchType": 0
         },
@@ -1082,7 +1082,7 @@
     {
         "buildId": "11162016",
         "Manifest": "424546141649632564",
-        "buildName": "November 16th, 2016",
+        "buildName": "November 16, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1101,7 +1101,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11162016.dll"
+                "patchLink": "https://giub.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11162016.dll"
             },
             "autoPatchType": 0
         },
@@ -1131,7 +1131,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11232016.dll"
+                "patchLink": "https://giub.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11232016.dll"
             },
             "autoPatchType": 0
         },
@@ -1142,7 +1142,7 @@
     {
         "buildId": "11242016",
         "Manifest": "8464629802564135940",
-        "buildName": "November 24th, 2016",
+        "buildName": "November 24, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1161,7 +1161,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11242016.dll"
+                "patchLink": "https://giub.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11242016.dll"
             },
             "autoPatchType": 0
         },
@@ -1172,7 +1172,7 @@
     {
         "buildId": "11292016",
         "Manifest": "1964111244192991547",
-        "buildName": "November 29th, 2016",
+        "buildName": "November 29, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1191,7 +1191,7 @@
             "patchDownloadSettings":
             {
                 "requireDownload": true,
-                "patchLink": "https://github.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11292016.dll"
+                "patchLink": "https://giub.com/Disrxpt/RecRoomArchiveProject/raw/main/Assemblies/11292016.dll"
             },
             "autoPatchType": 0
         },
@@ -1202,7 +1202,7 @@
     {
         "buildId": "120920161",
         "Manifest": "8224493981844824938",
-        "buildName": "December 9th, 2016 (1)",
+        "buildName": "December 9, 2016 (1)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1232,7 +1232,7 @@
     {
         "buildId": "120920162",
         "Manifest": "1341823113150898819",
-        "buildName": "December 9th, 2016 (2)",
+        "buildName": "December 9, 2016 (2)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1262,7 +1262,7 @@
     {
         "buildId": "12162016",
         "Manifest": "8356502470941083689",
-        "buildName": "December 16th, 2016",
+        "buildName": "December 16, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1292,7 +1292,7 @@
     {
         "buildId": "12232016",
         "Manifest": "44843189150346366",
-        "buildName": "December 23th, 2016",
+        "buildName": "December 23, 2016",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1322,7 +1322,7 @@
     {
         "buildId": "01072017",
         "Manifest": "1355637356417786081",
-        "buildName": "January 7th, 2017",
+        "buildName": "January 7, 2017",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1352,7 +1352,7 @@
     {
         "buildId": "01112017",
         "Manifest": "4426211608086196524",
-        "buildName": "January 11th, 2017",
+        "buildName": "January 11, 2017",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1382,7 +1382,7 @@
     {
         "buildId": "011820171",
         "Manifest": "4350859901318817364",
-        "buildName": "January 18th, 2017 (1)",
+        "buildName": "January 18, 2017 (1)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1412,7 +1412,7 @@
     {
         "buildId": "011820172",
         "Manifest": "7500062053385944746",
-        "buildName": "January 18th, 2017 (2)",
+        "buildName": "January 18, 2017 (2)",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1442,7 +1442,7 @@
     {
         "buildId": "01202017",
         "Manifest": "8061750969870240553",
-        "buildName": "January 20th, 2017",
+        "buildName": "January 20, 2017",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1472,7 +1472,7 @@
     {
         "buildId": "01262017",
         "Manifest": "151686977716385839",
-        "buildName": "January 26th, 2017",
+        "buildName": "January 26, 2017",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1562,7 +1562,7 @@
     {
         "buildId": "02102017",
         "Manifest": "2420201992531381519",
-        "buildName": "February 10th, 2017",
+        "buildName": "February 10, 2017",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1592,7 +1592,7 @@
     {
         "buildId": "02112017",
         "Manifest": "7694317481478922956",
-        "buildName": "February 11th, 2017",
+        "buildName": "February 11, 2017",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1622,7 +1622,7 @@
     {
         "buildId": "02132017",
         "Manifest": "7169987427560345612",
-        "buildName": "February 13th, 2017",
+        "buildName": "February 13, 2017",
         "privacySettings":
         {
             "baseAccessLevel": 0,
@@ -1652,7 +1652,7 @@
     {
         "buildId": "02142017",
         "Manifest": "7452447116407047837",
-        "buildName": "February 14th, 2017",
+        "buildName": "February 14, 2017",
         "privacySettings":
         {
             "baseAccessLevel": 0,
