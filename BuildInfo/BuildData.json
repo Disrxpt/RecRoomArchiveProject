@@ -2555,7 +2555,7 @@
         "buildName": "June 8, 2017",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
@@ -2585,7 +2585,7 @@
         "buildName": "June 8, 2017 (2)",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
@@ -2615,7 +2615,7 @@
         "buildName": "June 13, 2017",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
@@ -2645,7 +2645,7 @@
         "buildName": "June 23, 2017",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
@@ -2675,7 +2675,7 @@
         "buildName": "June 25, 2017",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
@@ -2705,7 +2705,7 @@
         "buildName": "June 26, 2017",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
@@ -2735,7 +2735,7 @@
         "buildName": "July 11, 2017",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
@@ -2765,7 +2765,7 @@
         "buildName": "July 12, 2017 (1)",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
@@ -2795,7 +2795,7 @@
         "buildName": "July 12, 2017 (2)",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
