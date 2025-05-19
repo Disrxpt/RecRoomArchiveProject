@@ -3725,7 +3725,7 @@
         "buildName": "February 1, 2018",
         "privacySettings":
         {
-            "baseAccessLevel": 1,
+            "baseAccessLevel": 0,
             "allowedUsers": []
         },
         "photonServerSettings":
