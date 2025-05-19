@@ -3449,4 +3449,214 @@
         "supportScreen": false,
         "il2cpp": false
     },
+    {
+        "buildId": "11032017",
+        "Manifest": "4239320714627442323",
+        "buildName": "November 3, 2017",
+        "privacySettings":
+        {
+            "baseAccessLevel": 1,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": ""
+            },
+            "autoPatchType": 1
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11102017",
+        "Manifest": "3186840471977606292",
+        "buildName": "November 10, 2017",
+        "privacySettings":
+        {
+            "baseAccessLevel": 1,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": ""
+            },
+            "autoPatchType": 1
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11182017",
+        "Manifest": "6258316584260598560",
+        "buildName": "November 18, 2017",
+        "privacySettings":
+        {
+            "baseAccessLevel": 1,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": ""
+            },
+            "autoPatchType": 1
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11212017",
+        "Manifest": "6274982063416276948",
+        "buildName": "November 21, 2017",
+        "privacySettings":
+        {
+            "baseAccessLevel": 1,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": ""
+            },
+            "autoPatchType": 1
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "11302017",
+        "Manifest": "423813208838963499",
+        "buildName": "November 30, 2017",
+        "privacySettings":
+        {
+            "baseAccessLevel": 1,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": ""
+            },
+            "autoPatchType": 1
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "12152017",
+        "Manifest": "5289494715554966483",
+        "buildName": "December 15, 2017",
+        "privacySettings":
+        {
+            "baseAccessLevel": 1,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": ""
+            },
+            "autoPatchType": 1
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
+    {
+        "buildId": "12202017",
+        "Manifest": "8085942183583969702",
+        "buildName": "December 20, 2017",
+        "privacySettings":
+        {
+            "baseAccessLevel": 1,
+            "allowedUsers": []
+        },
+        "photonServerSettings":
+        {
+            "useRealtime": false,
+            "realTimeId": "692a8844-6c80-4ce8-8231-dce8c2dcb918",
+            "punId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+            "voiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
+        },
+        "recnetPatchSettings":
+        {
+            "patchRecNet": true,
+            "patchDownloadSettings":
+            {
+                "requireDownload": false,
+                "patchLink": ""
+            },
+            "autoPatchType": 1
+        },
+        "Tooltip": "",
+        "supportScreen": false,
+        "il2cpp": false
+    },
 ]
