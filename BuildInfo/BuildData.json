@@ -3713,7 +3713,7 @@
                 "requireDownload": false,
                 "patchLink": ""
             },
-            "autoPatchType": 1
+            "autoPatchType": 2
         },
         "Tooltip": "",
         "supportScreen": false,
@@ -3743,7 +3743,7 @@
                 "requireDownload": false,
                 "patchLink": ""
             },
-            "autoPatchType": 1
+            "autoPatchType": 2
         },
         "Tooltip": "",
         "supportScreen": false,
